@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-조금씩 기록해보려 합니다.
+부족하지만 조금씩 기록해보려 합니다.
 
 https://cheonlab.tistory.com/
 

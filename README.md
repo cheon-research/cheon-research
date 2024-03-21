@@ -1,9 +1,5 @@
 ### 안녕하세요 👋
 
-부족하지만 조금씩 기록해보려 합니다.
-
-https://cheonlab.tistory.com/
-
 <!--
 **cheon-research/cheon-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
